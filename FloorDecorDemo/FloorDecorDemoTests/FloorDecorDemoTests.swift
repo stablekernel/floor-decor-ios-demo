@@ -6,6 +6,8 @@
 //
 
 import Testing
+import XCTest
+import SwiftUI
 import AVKit
 @testable import FloorDecorDemo
 
